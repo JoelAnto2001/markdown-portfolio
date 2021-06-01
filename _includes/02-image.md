@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![city pic](https://www.kolpaper.com/wp-content/uploads/2019/12/City-wallpaper.jpg)

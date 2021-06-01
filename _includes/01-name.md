@@ -1,2 +1,3 @@
-# <h1>hello</h1>
-###### <h6>bonjour</h6>
+# __Hello__
+##### “There is no magic wand that can resolve our problems. The solution rests with our work and discipline. ”
+###### _Jose Eduardo dos Santos_

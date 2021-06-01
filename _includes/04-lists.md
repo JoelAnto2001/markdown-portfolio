@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* intrested in architecture
+* intrested in meeting new poeple and gaining knowledge
